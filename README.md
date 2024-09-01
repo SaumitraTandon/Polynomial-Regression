@@ -1,6 +1,6 @@
 # Polynomial Regression
 
-This repository contains code for implementing polynomial regression on a dataset of position levels and corresponding salaries. The code is written in Python and uses the scikit-learn library.
+This repository contains code for implementing polynomial regression on a dataset of position levels and corresponding salaries. The code is written in Python & R and uses the scikit-learn library.
 
 ## Code Explanation
 
